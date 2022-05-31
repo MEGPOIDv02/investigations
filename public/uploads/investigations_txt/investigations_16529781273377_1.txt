@@ -1,0 +1,12 @@
+=======Muestra las ramas======
+git branch
+
+====Cambiar nombre de la rama====
+git branch -m master main
+
+
+===Nombre branch por default=====
+git config --global init.defaultBranch main
+
+*Despues de una configuracion cerrar todo y volver abrir*
+
